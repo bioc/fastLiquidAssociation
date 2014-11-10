@@ -12,7 +12,7 @@ This package provides three external functions to extend liquid association (LA)
 \tabular{ll}{
 Package: \tab fastLA\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 1.2.1\cr
 Date: \tab 2013-12-08\cr
 License: \tab GPL-2\cr
 }
