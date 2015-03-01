@@ -251,7 +251,7 @@ umat
 
 <<stopCluster, echo=FALSE>>=
 stopCluster(clust)
-closeAllConnections
+closeAllConnections()
 @
 
 \section{References}
